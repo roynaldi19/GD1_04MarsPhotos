@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.marsphotos
+package com.roynaldi19.android.gd1_04marsphotos
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

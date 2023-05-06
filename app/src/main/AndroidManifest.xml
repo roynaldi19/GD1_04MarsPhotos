@@ -16,7 +16,7 @@
   -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.marsphotos">
+    package="com.roynaldi19.android.gd1_04marsphotos">
 
     <application
         android:allowBackup="true"
@@ -25,7 +25,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MarsPhotos">
-        <activity android:name="com.example.android.marsphotos.MainActivity"
+        <activity android:name="com.roynaldi19.android.gd1_04marsphotos.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
