@@ -15,4 +15,4 @@
  */
 
 include ':app'
-rootProject.name = "MarsPhotos"
+rootProject.name = "GD1_04MarsPhotos"
